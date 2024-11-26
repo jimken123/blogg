@@ -8,7 +8,7 @@ Welcome to [Hexo](https://hexo.io/)! This  post. Check [documentation](https://h
 ### Create a  post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "My  Post"
 ```
 
 More i [Writing](https://hexo.io/docs/writing.html)
