@@ -5,7 +5,7 @@ Welcome to [Hexo](https://hexo.io/)! This  post. Check [documentation](https://h
 
 ## Quick Start
 
-### Create a new post
+### Create a  post
 
 ``` bash
 $ hexo new "My New Post"
